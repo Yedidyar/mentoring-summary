@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-05T05:07:50.749Z",
+  "sourceFile": "mentoring.txt",
+  "totalLines": 2311,
+  "totalMessages": 1200,
+  "nonSystemMessages": 766,
+  "urlOccurrences": 470,
+  "uniqueResources": 459,
+  "categoriesCount": 12,
+  "platformsCount": 14,
+  "dateRange": {
+    "from": "2025-01-23T07:58:00.000Z",
+    "to": "2026-10-05T04:31:00.000Z"
+  },
+  "categories": [
+    "AI וכלי AI",
+    "GitHub ופרויקטים",
+    "אחר",
+    "אירועים וכנסים",
+    "כלים ואתרים",
+    "למידה וקורסים",
+    "משרות",
+    "סרטונים ופודקאסטים",
+    "פיתוח תוכנה",
+    "קורות חיים ו-LinkedIn",
+    "קריירה",
+    "ראיונות עבודה"
+  ],
+  "platforms": [
+    "AWS",
+    "GitHub",
+    "Google Forms",
+    "Google Maps",
+    "Instagram",
+    "LinkedIn",
+    "Medium",
+    "Meetup",
+    "Spotify",
+    "TikTok",
+    "Web App",
+    "Website",
+    "X",
+    "YouTube"
+  ]
+}
